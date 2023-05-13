@@ -1,0 +1,306 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "ref_category_id": null,
+            "is_variant": false,
+            "show_by_variant": false,
+            "is_adult": false,
+            "is_fragile": false,
+            "node_category_id": null,
+            "child_ids": [
+                2, 106, 88, 15, 228, 204, 70, 235, 249, 2923, 4029, 2054, 2163,
+                2920
+            ],
+            "node_type": "NODE",
+            "parent_id": null,
+            "view_mode": "products_and_categories",
+            "icons": {
+                "thumbnail": "https://strgimgr.umico.az/catalog/3dba67a85402726c061e16ae4cd2702d.png",
+                "original": "https://strgimgr.umico.az/catalog/11a38211d1becce811386cf70eae7552.png"
+            },
+            "fitting_allowed": false,
+            "ascii_icon": null,
+            "name": "Электроника и бытовая техника",
+            "slugged_name": "elektronika-i-bytovaya-tehnika"
+        },
+        {
+            "id": 257,
+            "ref_category_id": null,
+            "is_variant": false,
+            "show_by_variant": false,
+            "is_adult": false,
+            "is_fragile": false,
+            "node_category_id": null,
+            "child_ids": [
+                414, 266, 342, 258, 329, 449, 467, 455, 387, 1328, 4169, 3446,
+                3445, 3583, 3448
+            ],
+            "node_type": "NODE",
+            "parent_id": null,
+            "view_mode": "products_and_categories",
+            "icons": {
+                "thumbnail": "https://strgimgr.umico.az/catalog/aebf36353a4d09f7ea3ce54c1e230c6b.png",
+                "original": "https://strgimgr.umico.az/catalog/8bccb3fdba6fd3f01385922758c8009b.png"
+            },
+            "fitting_allowed": false,
+            "ascii_icon": null,
+            "name": "Красота и здоровье",
+            "slugged_name": "krasota-i-zdorovie"
+        },
+        {
+            "id": 516,
+            "ref_category_id": null,
+            "is_variant": false,
+            "show_by_variant": false,
+            "is_adult": false,
+            "is_fragile": false,
+            "node_category_id": null,
+            "child_ids": [
+                620, 517, 642, 735, 533, 694, 661, 582, 658, 3758, 636, 595,
+                567, 628, 3569, 714, 685, 2885
+            ],
+            "node_type": "NODE",
+            "parent_id": null,
+            "view_mode": "products_and_categories",
+            "icons": {
+                "thumbnail": "https://strgimgr.umico.az/catalog/cd5fbcb67478240fa23114cbf3e91aa3.png",
+                "original": "https://strgimgr.umico.az/catalog/86f7ae3eef00cfda6bf860dd66b25ff6.png"
+            },
+            "fitting_allowed": false,
+            "ascii_icon": null,
+            "name": "Спорт и активный отдых",
+            "slugged_name": "sport-i-aktivnyy-otdyh"
+        },
+        {
+            "id": 779,
+            "ref_category_id": null,
+            "is_variant": false,
+            "show_by_variant": false,
+            "is_adult": false,
+            "is_fragile": false,
+            "node_category_id": null,
+            "child_ids": [
+                833, 799, 788, 918, 895, 913, 780, 817, 909, 798, 4362, 4137,
+                4168, 2542, 2561, 2539, 2560, 2541
+            ],
+            "node_type": "NODE",
+            "parent_id": null,
+            "view_mode": "products_and_categories",
+            "icons": {
+                "thumbnail": "https://strgimgr.umico.az/catalog/ad4025ff87b3ba357dc77d8a9c55b301.png",
+                "original": "https://strgimgr.umico.az/catalog/c9f7d292711762dd923a92a9155f6afa.png"
+            },
+            "fitting_allowed": false,
+            "ascii_icon": "👪",
+            "name": "Детям и мамам",
+            "slugged_name": "detyam-i-mamam"
+        },
+        {
+            "id": 937,
+            "ref_category_id": null,
+            "is_variant": false,
+            "show_by_variant": false,
+            "is_adult": false,
+            "is_fragile": false,
+            "node_category_id": null,
+            "child_ids": [
+                2627, 1126, 938, 1179, 1135, 984, 991, 1077, 1223, 1168, 746,
+                3562, 2605, 1105, 979, 1232, 1134, 1125, 3942, 3964, 3946, 3628,
+                3629, 3631, 3632, 3633, 3634, 3644, 3587, 3411, 3427, 2479
+            ],
+            "node_type": "NODE",
+            "parent_id": null,
+            "view_mode": "products_and_categories",
+            "icons": {
+                "thumbnail": "https://strgimgr.umico.az/catalog/0485c53016b8cf37874a2b50d1d63671.png",
+                "original": "https://strgimgr.umico.az/catalog/ab196f67d8910ae1e8dd58c90256b139.png"
+            },
+            "fitting_allowed": false,
+            "ascii_icon": "🏡",
+            "name": "Товары для дома и дачи",
+            "slugged_name": "tovary-dlya-doma-i-dachi"
+        },
+        {
+            "id": 1340,
+            "ref_category_id": null,
+            "is_variant": false,
+            "show_by_variant": false,
+            "is_adult": false,
+            "is_fragile": false,
+            "node_category_id": null,
+            "child_ids": [1348, 1592, 1438, 1341, 1346, 3540, 3520, 3517, 1347],
+            "node_type": "NODE",
+            "parent_id": null,
+            "view_mode": "products_and_categories",
+            "icons": {
+                "thumbnail": "https://strgimgr.umico.az/catalog/a9e4258db91f97672a1987a067fa05fd.png",
+                "original": "https://strgimgr.umico.az/catalog/6324ef7233dac46581316bafa3504cd6.png"
+            },
+            "fitting_allowed": false,
+            "ascii_icon": "📚",
+            "name": "Хобби и книги",
+            "slugged_name": "hobbi-i-knigi"
+        },
+        {
+            "id": 1657,
+            "ref_category_id": null,
+            "is_variant": false,
+            "show_by_variant": false,
+            "is_adult": false,
+            "is_fragile": false,
+            "node_category_id": null,
+            "child_ids": [
+                1687, 1658, 2772, 2768, 2816, 2813, 2817, 2811, 2812, 2814, 2815
+            ],
+            "node_type": "NODE",
+            "parent_id": null,
+            "view_mode": "products_and_categories",
+            "icons": {
+                "thumbnail": "https://strgimgr.umico.az/catalog/6de18b1df9bdf237b245f48513b691dd.jpg",
+                "original": "https://strgimgr.umico.az/catalog/f20fee176772ada6c9e29e81ff40c4cf.jpg"
+            },
+            "fitting_allowed": false,
+            "ascii_icon": "🗂️",
+            "name": "Товары для офиса и школы",
+            "slugged_name": "tovary-dlya-ofisa-i-shkoly"
+        },
+        {
+            "id": 1708,
+            "ref_category_id": null,
+            "is_variant": false,
+            "show_by_variant": false,
+            "is_adult": false,
+            "is_fragile": false,
+            "node_category_id": null,
+            "child_ids": [1978, 1910, 1964, 1709, 1943, 1953, 2936, 2952],
+            "node_type": "NODE",
+            "parent_id": null,
+            "view_mode": "products_and_categories",
+            "icons": {
+                "thumbnail": "https://strgimgr.umico.az/catalog/4d6f5461f985a10dbc40190feddb5ddc.png",
+                "original": "https://strgimgr.umico.az/catalog/4c3af5bfa8469c3220c77392bcb22ec7.png"
+            },
+            "fitting_allowed": false,
+            "ascii_icon": "🚘",
+            "name": "Автотовары",
+            "slugged_name": "avtotovary"
+        },
+        {
+            "id": 2164,
+            "ref_category_id": null,
+            "is_variant": false,
+            "show_by_variant": false,
+            "is_adult": false,
+            "is_fragile": false,
+            "node_category_id": null,
+            "child_ids": [2165, 2247, 2209, 2222, 2200],
+            "node_type": "NODE",
+            "parent_id": null,
+            "view_mode": "products_and_categories",
+            "icons": {
+                "thumbnail": "https://strgimgr.umico.az/catalog/8d8d956aec4c738c041234e10215a1b0.png",
+                "original": "https://strgimgr.umico.az/catalog/96a65cf07903cb6c7c7ef60bb558148f.png"
+            },
+            "fitting_allowed": false,
+            "ascii_icon": "🐇",
+            "name": "Товары для животных",
+            "slugged_name": "tovary-dlya-zhivotnyh"
+        },
+        {
+            "id": 2266,
+            "ref_category_id": null,
+            "is_variant": false,
+            "show_by_variant": false,
+            "is_adult": false,
+            "is_fragile": false,
+            "node_category_id": null,
+            "child_ids": [
+                2409, 2383, 2267, 2319, 2299, 2339, 2286, 2288, 2911, 2324,
+                2298, 2295, 2296, 2297, 2991, 3990, 4015, 2998
+            ],
+            "node_type": "NODE",
+            "parent_id": null,
+            "view_mode": "products_and_categories",
+            "icons": {
+                "thumbnail": "https://strgimgr.umico.az/catalog/64119248c4cffd50cc124eab72bb3d07.jpg",
+                "original": "https://strgimgr.umico.az/catalog/dd0416ac51ddd2b725f33fa24a60d5f8.jpg"
+            },
+            "fitting_allowed": false,
+            "ascii_icon": "⌚",
+            "name": "Аксессуары, часы, украшения",
+            "slugged_name": "aksessuary-chasy-ukrasheniya"
+        },
+        {
+            "id": 2492,
+            "ref_category_id": null,
+            "is_variant": true,
+            "show_by_variant": false,
+            "is_adult": false,
+            "is_fragile": false,
+            "node_category_id": null,
+            "child_ids": [
+                2493, 3624, 2592, 2494, 2495, 2597, 2598, 2600, 2933, 2584,
+                2601, 2593, 2497, 2498, 2599, 2596, 2500, 2496, 2604, 2499,
+                2603, 2594, 2602, 4273, 2591, 3785, 3407, 2595, 3733, 2993, 3630
+            ],
+            "node_type": "NODE",
+            "parent_id": null,
+            "view_mode": "products_and_categories",
+            "icons": {
+                "thumbnail": "https://strgimgr.umico.az/catalog/099f32fb01eee8926cc4baeff8c83f19.jpg",
+                "original": "https://strgimgr.umico.az/catalog/e5116be9e57c0ceef9f859ef907a2675.jpg"
+            },
+            "fitting_allowed": false,
+            "ascii_icon": "🛒",
+            "name": "Продукты и напитки",
+            "slugged_name": "produkty-i-napitki-v-bolshih-upakovkah"
+        },
+        {
+            "id": 3003,
+            "ref_category_id": null,
+            "is_variant": true,
+            "show_by_variant": true,
+            "is_adult": false,
+            "is_fragile": false,
+            "node_category_id": null,
+            "child_ids": [
+                3186, 3117, 3004, 3259, 4410, 4291, 3907, 3796, 3797, 3798,
+                3799, 3801, 3803, 3804, 3806, 3807, 3800, 3802, 3805, 3747
+            ],
+            "node_type": "NODE",
+            "parent_id": null,
+            "view_mode": "products_and_categories",
+            "icons": {
+                "thumbnail": "https://strgimgr.umico.az/catalog/69cfa2911ffad1da74f9811440ed78dc.jpg",
+                "original": "https://strgimgr.umico.az/catalog/49e4c805bfda613f404df593f24ec33a.jpg"
+            },
+            "fitting_allowed": false,
+            "ascii_icon": null,
+            "name": "Одежда, обувь",
+            "slugged_name": "odezhda-obuv"
+        },
+        {
+            "id": 3890,
+            "ref_category_id": null,
+            "is_variant": false,
+            "show_by_variant": false,
+            "is_adult": false,
+            "is_fragile": false,
+            "node_category_id": null,
+            "child_ids": [],
+            "node_type": "NODE",
+            "parent_id": null,
+            "view_mode": "products",
+            "icons": {
+                "thumbnail": "https://strgimgr.umico.az/catalog/16b4ce79e17eddd76954dfc70737ffd0.jpg",
+                "original": "https://strgimgr.umico.az/catalog/f7163c9b152162b2baf49afcb4376db9.jpg"
+            },
+            "fitting_allowed": false,
+            "ascii_icon": null,
+            "name": "Outlet",
+            "slugged_name": "outlet"
+        }
+    ],
+    "self": null
+}
